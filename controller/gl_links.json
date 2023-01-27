@@ -1,0 +1,22 @@
+{
+	"n1": [
+		{"dest": "n2", "bw": "1mbps"},
+		{"dest": "n3", "bw": "1mbps"},
+		{"dest": "n4", "bw": "1mbps"}
+	],
+	"n2": [
+		{"dest": "n1", "bw": "1mbps"},
+		{"dest": "n3", "bw": "1mbps"},
+		{"dest": "n4", "bw": "1mbps"}
+	],
+	"n3": [
+		{"dest": "n1", "bw": "1mbps"},
+		{"dest": "n2", "bw": "1mbps"},
+		{"dest": "n4", "bw": "1mbps"}
+	],
+	"n4": [
+		{"dest": "n1", "bw": "1mbps"},
+		{"dest": "n3", "bw": "1mbps"},
+		{"dest": "n2", "bw": "1mbps"}
+	]
+  }

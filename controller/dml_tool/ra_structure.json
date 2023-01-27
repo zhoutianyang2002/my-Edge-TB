@@ -1,0 +1,9 @@
+{
+  "sync": 75,
+  "node_list": [
+    {"name": "n1", "epoch": 4},
+    {"name": "n2", "epoch": 4},
+    {"name": "n3", "epoch": 4},
+    {"name": "n4", "epoch": 4}
+  ]
+}

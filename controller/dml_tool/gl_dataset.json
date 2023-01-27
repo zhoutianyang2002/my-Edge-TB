@@ -1,0 +1,6 @@
+{
+  "n1": {"test_len": 25, "test_start_index": 1, "train_len": 25, "train_start_index": 1, "batch_size": 32, "useLocalData": "True"},
+  "n2": {"test_len": 25, "test_start_index": 26, "train_len": 25, "train_start_index": 26, "batch_size": 32, "useLocalData": "True"},
+  "n3": {"test_len": 25, "test_start_index": 51, "train_len": 25, "train_start_index": 51, "batch_size": 32, "useLocalData": "True"},
+  "n4": {"test_len": 25, "test_start_index": 76, "train_len": 25, "train_start_index": 76, "batch_size": 32, "useLocalData": "True"}
+}
